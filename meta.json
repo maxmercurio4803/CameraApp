@@ -35,14 +35,14 @@
                         ],
                         "ios": [
                             {
-                                "name": "NSPhotoLibraryUsageDescription",
-                                "label": "Photos",
-                                "hint": "Describe why your app uses photos."
-                            },
-                            {
                                 "name": "NSCameraUsageDescription",
                                 "label": "Camera",
                                 "hint": "Describe why your app uses the camera."
+                            },
+                            {
+                                "name": "NSPhotoLibraryUsageDescription",
+                                "label": "Photos",
+                                "hint": "Describe why your app uses photos."
                             }
                         ]
                     }
@@ -81,7 +81,7 @@
             "figmaComponents": {},
             "description": null,
             "icon": null,
-            "projectName": "Camera App",
+            "projectName": "Camera App Copy",
             "settings": {
                 "teamId": null,
                 "appName": null,
@@ -189,7 +189,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "1",
+            "totalCopy": "0",
             "totalStar": "0",
             "starAction": "star",
             "variables": {},
